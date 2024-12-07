@@ -1,0 +1,1 @@
+String tts_input ="Android TTS does not support the pause function natively, so we have implemented a work around. We utilize the native onRangeStart() method to determine the index of start when pause is invoked. We use that index to create a new text the next time speak is invoked.";

@@ -1,0 +1,23 @@
+
+  ide: "idea"
+  flavors:
+    apple:
+      app:
+        name: "Flutter Test App"
+
+      android:
+        applicationId: "com.example.fluttertest"
+#      ios:
+#        bundleId: "com.example.fluttertest"
+#      macos:
+#        bundleId: "com.example.fluttertest"
+    banana:
+      app:
+        name: "Banana App"
+
+      android:
+        applicationId: "com.example.banana"
+#      ios:
+#        bundleId: "com.example.banana"
+#      macos:
+#        bundleId: "com.example.banana"
